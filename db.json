@@ -740,5 +740,513 @@
           "review": "1056 Reviews",
           "id": 33
         }
+      ],
+      "men":[
+        {
+          "image": "https://images.meesho.com/images/products/132914847/hjlhm_400.webp",
+          "title": "Trendy Fabulous Men Shirts",
+          "price": 280,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "47 Reviews",
+          "id": 1
+        },
+        {
+          "image": "https://images.meesho.com/images/products/144906418/lscec_400.webp",
+          "title": "Stylish Designer Men Shirts",
+          "price": 297,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "27239 Reviews",
+          "id": 2
+        },
+        {
+          "image": "https://images.meesho.com/images/products/132715677/amkqb_400.webp",
+          "title": "Vellical Men Shirts",
+          "price": 285,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "34234 Reviews",
+          "id": 3
+        },
+        {
+          "image": "https://images.meesho.com/images/products/8575187/e2343_400.webp",
+          "title": "Carbonn Blue Men Light Blue Double Pocket Denim Shirts",
+          "price": 473,
+          "delivery": "Free Delivery",
+          "rating": 4,
+          "review": "1680 Reviews",
+          "id": 4
+        },
+        {
+          "image": "https://images.meesho.com/images/products/50754822/yyxp4_400.webp",
+          "title": "Stylish Fabulous Men Tshirts",
+          "price": 241,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "33324 Reviews",
+          "id": 5
+        },
+        {
+          "image": "https://images.meesho.com/images/products/140598388/ailwc_400.webp",
+          "title": "Trendy Ravishing Men Tshirts",
+          "price": 189,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "13253 Reviews",
+          "id": 6
+        },
+        {
+          "image": "https://images.meesho.com/images/products/137542424/0jcc2_400.webp",
+          "title": "Urbane Graceful Men Tshirts",
+          "price": 346,
+          "delivery": "Free Delivery",
+          "rating": 4,
+          "review": "29 Reviews",
+          "id": 7
+        },
+        {
+          "image": "https://images.meesho.com/images/products/146519605/fsjdd_400.webp",
+          "title": "Comfy Latest Men Tshirts",
+          "price": 165,
+          "delivery": "Free Delivery",
+          "rating": 3.8,
+          "review": "5282 Reviews",
+          "id": 8
+        },
+        {
+          "image": "https://images.meesho.com/images/products/148828496/vfcip_400.webp",
+          "title": "Urbane Elegant Men Shirts",
+          "price": 272,
+          "delivery": "Free Delivery",
+          "rating": 3.7,
+          "review": "9144 Reviews",
+          "id": 9
+        },
+        {
+          "image": "https://images.meesho.com/images/products/211898418/8zsf0_400.webp",
+          "title": "Urbane Latest Men Shirts",
+          "price": 308,
+          "delivery": "Free Delivery",
+          "rating": 3.5,
+          "review": "9089 Reviws",
+          "id": 10
+        },
+        {
+          "image": "https://images.meesho.com/images/products/106265043/ubgql_400.webp",
+          "title": "Fancy Ravishing Men Tshirts",
+          "price": 318,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "10485 Reviews",
+          "id": 11
+        },
+        {
+          "image": "https://images.meesho.com/images/products/147656951/vs3s2_400.webp",
+          "title": "Classic Ravishing Men Tshirts",
+          "price": 172,
+          "delivery": "Delivery ₹69",
+          "rating": 3.9,
+          "review": "6649 Reviews",
+          "id": 12
+        },
+        {
+          "image": "https://images.meesho.com/images/products/3556995/3_400.webp",
+          "title": "Pack of 5 Comfy Men Shirts",
+          "price": "1,083",
+          "delivery": "Free Delivery",
+          "rating": 3.5,
+          "review": "5583 Reviews",
+          "id": 13
+        },
+        {
+          "image": "https://images.meesho.com/images/products/149408141/dkhin_400.webp",
+          "title": "Stylish Elegant Men Tshirts",
+          "price": 102,
+          "delivery": "Delivery ₹69",
+          "rating": 3.8,
+          "review": "18948 Reviews",
+          "id": 14
+        },
+        {
+          "image": "https://images.meesho.com/images/products/114419754/yixfd_400.webp",
+          "title": "Trendy Sensational Men Tshirts",
+          "price": 263,
+          "delivery": "Free Delivery",
+          "rating": 4,
+          "review": "20478 Reviews",
+          "id": 15
+        },
+        {
+          "image": "https://images.meesho.com/images/products/41984344/okmwo_400.webp",
+          "title": "Pack of 2 Trendy Sensational Men Shirts",
+          "price": 508,
+          "delivery": "Free Delivery",
+          "rating": 3.8,
+          "review": "6613 Reviews",
+          "id": 16
+        },
+        {
+          "image": "https://images.meesho.com/images/products/164756011/v54ml_400.webp",
+          "title": "Urbane Partywear Men Shirts",
+          "price": 263,
+          "delivery": "Free Delivery",
+          "rating": 3.8,
+          "review": "3164 Reviews",
+          "id": 17
+        },
+        {
+          "image": "https://images.meesho.com/images/products/25107917/f0glb_400.webp",
+          "title": "Fancy Glamorous Men Tshirts",
+          "price": 259,
+          "delivery": "Free Delivery",
+          "rating": 3.9,
+          "review": "6789 Reviews",
+          "id": 18
+        },
+        {
+          "image": "https://images.meesho.com/images/products/143657809/zxosp_400.webp",
+          "title": "Pretty Fabulous Men Shirts",
+          "price": 362,
+          "delivery": "Free Delivery",
+          "rating": 3.8,
+          "review": "4635 Reviews",
+          "id": 19
+        },
+        {
+          "image": "https://images.meesho.com/images/products/87613691/nqjam_400.webp",
+          "title": "Pretty Glamorous Men Shirts",
+          "price": 362,
+          "delivery": "Free Delivery",
+          "rating": 4.1,
+          "review": "4278 Reviews",
+          "id": 20
+        },
+        {
+          "image": "https://images.meesho.com/images/products/175464250/vsm4u_400.webp",
+          "title": "Trendy Sensational Men Shirts",
+          "price": 312,
+          "delivery": "Free Delivery",
+          "rating": 4.1,
+          "review": "35 Reviews",
+          "id": 21
+        },
+        {
+          "image": "https://images.meesho.com/images/products/159342825/gypz9_400.webp",
+          "title": "Fancy Elegant Men Tshirts",
+          "price": 180,
+          "delivery": "Free Delivery",
+          "rating": 3.6,
+          "review": "4032 Reviews",
+          "id": 22
+        },
+        {
+          "image": "https://images.meesho.com/images/products/173368875/3rntu_400.webp",
+          "title": "Pretty Elegant Men Shirts",
+          "price": 270,
+          "delivery": "Free Delivery",
+          "rating": 3.8,
+          "review": "728 Reviews",
+          "id": 23
+        },
+        {
+          "image": "https://images.meesho.com/images/products/9242071/1d867_400.webp",
+          "title": "Pack of 2 Youth First Men Shirts",
+          "price": 510,
+          "delivery": "Free Delivery",
+          "rating": 3.8,
+          "review": "9652 Reviews",
+          "id": 24
+        }
+      ],
+      "kids":[
+        {
+          "image": "https://images.meesho.com/images/products/105901184/cppev_400.webp",
+          "title": "Cute Fancy Girls Frocks & Dresses",
+          "price": 302,
+          "rating": 3,
+          "review": "7 Reviews",
+          "delivery": "Free Delivery",
+          "id": 1
+        },
+        {
+          "image": "https://images.meesho.com/images/products/19505948/9b1f0_400.webp",
+          "title": "Princess Classy Girls Frocks & Dresses",
+          "price": 136,
+          "rating": 3.9,
+          "review": "26812 Reviews",
+          "delivery": "Free Delivery",
+          "id": 2
+        },
+        {
+          "image": "https://images.meesho.com/images/products/126711895/h7nhp_400.webp",
+          "title": "Flawsome Stylus Girls Frocks & Dresses",
+          "price": 178,
+          "rating": 3.9,
+          "review": "14274 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 3
+        },
+        {
+          "image": "https://images.meesho.com/images/products/76472466/suyae_400.webp",
+          "title": "frocks & dress",
+          "price": 311,
+          "rating": 3.9,
+          "review": "2031 Reviews",
+          "delivery": "Free Delivery",
+          "id": 4
+        },
+        {
+          "image": "https://images.meesho.com/images/products/186654007/pvali_400.webp",
+          "title": "Pretty Comfy Girls Frocks & Dresses",
+          "price": 184,
+          "rating": 3.7,
+          "review": "1668 Reviews",
+          "delivery": "Free Delivery",
+          "id": 5
+        },
+        {
+          "image": "https://images.meesho.com/images/products/161452820/vugmb_400.webp",
+          "title": "Modern Funky Girls Frocks & Dresses",
+          "price": 206,
+          "rating": 4,
+          "review": "4303 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 6
+        },
+        {
+          "image": "https://images.meesho.com/images/products/187984761/342c9_400.webp",
+          "title": "Agile Stylus Girls Frocks & Dresses",
+          "price": 338,
+          "rating": 3.9,
+          "review": "734 Reviews",
+          "delivery": "Free Delivery",
+          "id": 7
+        },
+        {
+          "image": "https://images.meesho.com/images/products/122506556/heao6_400.webp",
+          "title": "Modern Stylus Girls Frocks & Dresses",
+          "price": 285,
+          "rating": 3.9,
+          "review": "5000 Reviews",
+          "delivery": "Free Delivery",
+          "id": 8
+        },
+        {
+          "image": "https://images.meesho.com/images/products/127559776/2hlwy_400.webp",
+          "title": "Princess Trendy Girls Frocks & Dresses",
+          "price": 178,
+          "rating": 3.8,
+          "review": "21411 Reviews",
+          "delivery": "Free Delivery",
+          "id": 9
+        },
+        {
+          "image": "https://images.meesho.com/images/products/108234574/x41pz_400.webp",
+          "title": "Cute Fancy Girls Frocks & Dresses",
+          "price": 280,
+          "rating": 3.9,
+          "review": "192 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 10
+        },
+        {
+          "image": "https://images.meesho.com/images/products/184885365/iwxzx_400.webp",
+          "title": "Pretty Trendy Girls Frocks & Dresses",
+          "price": 335,
+          "rating": 4,
+          "review": "3462 Reviews",
+          "delivery": "Free Delivery",
+          "id": 11
+        },
+        {
+          "image": "https://images.meesho.com/images/products/175992228/xvjx4_400.webp",
+          "title": "Princess Classy Girls Frocks & Dresses",
+          "price": 181,
+          "rating": 3.7,
+          "review": "1403 Reviews",
+          "delivery": "Free Delivery",
+          "id": 12
+        },
+        {
+          "image": "https://images.meesho.com/images/products/149495214/lfhuf_400.webp",
+          "title": "Flawsome Fancy Girls Frocks & Dresses",
+          "price": 248,
+          "rating": 4.2,
+          "review": "495 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 13
+        },
+        {
+          "image": "https://images.meesho.com/images/products/98826127/1jiil_400.webp",
+          "title": "Modern Funky Girls Frocks & Dresses",
+          "price": 401,
+          "rating": 4,
+          "review": "4360 Reviews",
+          "delivery": "Free Delivery",
+          "id": 14
+        },
+        {
+          "image": "https://images.meesho.com/images/products/56458339/c7vyf_400.webp",
+          "title": "Agile Trendy Girls Frocks & Dresses",
+          "price": 258,
+          "rating": 3.8,
+          "review": "4891 Reviews",
+          "delivery": "Free Delivery",
+          "id": 15
+        },
+        {
+          "image": "https://images.meesho.com/images/products/103681266/1s1n0_400.webp",
+          "title": "Cutiepie Classy Girls Frocks & Dresses",
+          "price": 479,
+          "rating": 3.9,
+          "review": "1680 Reviews",
+          "delivery": "Free Delivery",
+          "id": 16
+        },
+        {
+          "image": "https://images.meesho.com/images/products/155565031/hlj6l_400.webp",
+          "title": "Flawsome Stylish Girls Frocks & Dresses",
+          "price": 278,
+          "rating": 4,
+          "review": "8820 Reviews",
+          "delivery": "Free Delivery",
+          "id": 17
+        },
+        {
+          "image": "https://images.meesho.com/images/products/160068829/uqbak_400.webp",
+          "title": "Tinkle Stylish Girls Frocks & Dresses",
+          "price": 298,
+          "rating": 3.5,
+          "review": "25 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 18
+        },
+        {
+          "image": "https://images.meesho.com/images/products/162557369/jomtb_400.webp",
+          "title": "Cutiepie Comfy Girls Frocks & Dresses",
+          "price": 239,
+          "rating": 4,
+          "review": "3761 Reviews",
+          "delivery": "Free Delivery",
+          "id": 19
+        },
+        {
+          "image": "https://images.meesho.com/images/products/177041337/gffld_400.webp",
+          "title": "Cute Stylus Girls Frocks & Dresses",
+          "price": 182,
+          "rating": 3.9,
+          "review": "1320 Reviews",
+          "delivery": "Free Delivery",
+          "id": 20
+        },
+        {
+          "image": "https://images.meesho.com/images/products/3097682/1_400.webp",
+          "title": "Free Gift Cutepie Alluring Kid's Girl's Frocks Combo Vol 5",
+          "price": 461,
+          "rating": 4,
+          "review": "13670 Reviews",
+          "delivery": "Free Delivery",
+          "id": 21
+        },
+        {
+          "image": "https://images.meesho.com/images/products/178304730/pin3h_400.webp",
+          "title": "Flawsome Fancy Girls Frocks & Dresses",
+          "price": 207,
+          "rating": 4,
+          "review": "1107 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 22
+        },
+        {
+          "image": "https://images.meesho.com/images/products/134457598/d6qxe_400.webp",
+          "title": "Tinkle Stylus Girls Frocks & Dresses",
+          "price": 170,
+          "rating": 3.8,
+          "review": "2257 Reviews",
+          "delivery": "Free Delivery",
+          "id": 23
+        },
+        {
+          "image": "https://images.meesho.com/images/products/106946770/qrerw_400.webp",
+          "title": "Princess Elegant Girls Frocks & Dresses",
+          "price": 278,
+          "rating": 3.9,
+          "review": "2025 Reviews",
+          "delivery": "Free Delivery",
+          "id": 24
+        },
+        {
+          "image": "https://images.meesho.com/images/products/147406931/glaxp_400.webp",
+          "title": "Flawsome Fancy Girls Frocks & Dresses",
+          "price": 178,
+          "rating": 3.9,
+          "review": "2220 Reviews",
+          "delivery": "Free Delivery",
+          "id": 25
+        },
+        {
+          "image": "https://images.meesho.com/images/products/163885696/he9gi_400.webp",
+          "title": "Cute Classy Girls Frocks & Dresses",
+          "price": 303,
+          "rating": 4.1,
+          "review": "2497 Reviews",
+          "delivery": "Free Delivery",
+          "id": 26
+        },
+        {
+          "image": "https://images.meesho.com/images/products/110104293/ievyq_400.webp",
+          "title": "Agile Funky Girls Frocks & Dresses",
+          "price": 207,
+          "rating": 3.7,
+          "review": "2110 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 27
+        },
+        {
+          "image": "https://images.meesho.com/images/products/45226304/myvae_400.webp",
+          "title": "Princess Classy Girls Frocks & Dresses",
+          "price": 145,
+          "rating": 3.8,
+          "review": "2691 Reviews",
+          "delivery": "Free Delivery",
+          "id": 28
+        },
+        {
+          "image": "https://images.meesho.com/images/products/134866605/xn1kn_400.webp",
+          "title": "Pretty Funky Girls Frocks & Dresses",
+          "price": 229,
+          "rating": 4.1,
+          "review": "4062 Reviews",
+          "delivery": "Free Delivery",
+          "id": 29
+        },
+        {
+          "image": "https://images.meesho.com/images/products/187649684/9grnh_400.webp",
+          "title": "Cute Funky Girls Frocks & Dresses",
+          "price": 171,
+          "rating": 3.7,
+          "review": "607 Reviews",
+          "delivery": "Delivery ₹69",
+          "id": 30
+        },
+        {
+          "image": "https://images.meesho.com/images/products/157577030/1gvrq_400.webp",
+          "title": "Cutiepie Funky Girls Frocks & Dresses",
+          "price": 392,
+          "rating": 4,
+          "review": "849 Reviews",
+          "delivery": "Free Delivery",
+          "id": 31
+        },
+        {
+          "image": "https://images.meesho.com/images/products/64963276/ebby0_400.webp",
+          "title": "Agile Fancy Girls Frocks & Dresses",
+          "price": 240,
+          "rating": 3.9,
+          "review": "9532 Reviews",
+          "delivery": "Free Delivery",
+          "id": 32
+        }
       ]
 }
